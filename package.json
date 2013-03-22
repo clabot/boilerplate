@@ -1,0 +1,16 @@
+{
+  "name": "clabot-boilerplate",
+  "description": "A clabot boilerplate",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/clabot/boilerplate.git"
+  },
+  "main": "src/clabot.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+    "clabot": "0.0.4"
+  }
+}
