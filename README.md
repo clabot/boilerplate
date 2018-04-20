@@ -110,7 +110,3 @@ git push heroku master
 ## Success
 
 Congratulations, after heroku has finished building the app clabot will answer your pull requests.
-
-**Questions, or just wanna hang out and chat about clabot?**
-
-[Join our HipChat room](https://www.hipchat.com/gBZFBJa2w)
